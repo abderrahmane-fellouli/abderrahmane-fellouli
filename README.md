@@ -1,82 +1,132 @@
-<h1 align="center">Hi, I'm Abderrahmane Fellouli 👋</h1>
-<h3 align="center">Aspiring Software Developer — Fès, Morocco 🇲🇦</h3>
-<p align="center"><i>Angehender Softwareentwickler aus Fès, Marokko</i></p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:fellouli.abderrahmane@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fellouli.abderrahmane%40gmail.com-1F3864?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-F%C3%A8s%2C%20Morocco-1F3864?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/German-B1%20(%C3%96SD)-1F3864?style=flat-square" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=130&section=header&text=Abderrahmane%20Fellouli&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Aspiring%20Software%20Developer%20%C2%B7%20F%C3%A8s,%20Morocco&descAlignY=62&descSize=16" width="100%"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=1F3864&center=true&vCenter=true&width=620&lines=Angehender+Softwareentwickler;Frontend+%2B+Backend%3A+React+%C2%B7+Laravel+%C2%B7+MySQL;Auf+der+Suche+nach+einer+Ausbildung+in+Deutschland" alt="Typing SVG" />
 
-### About me / Über mich
+<br/>
 
-I'm learning full-stack web development — building React frontends, connecting them to Laravel and Python backends, and working with real data in MySQL and MongoDB. I completed an internship where I worked on a multilingual production application as part of a development team.
+<a href="mailto:fellouli.abderrahmane@gmail.com">
+<img src="https://img.shields.io/badge/Email-fellouli.abderrahmane%40gmail.com-1F3864?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Location-F%C3%A8s%2C%20Morocco-1F3864?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/German-B1%20(%C3%96SD)-1F3864?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=abderrahmane-fellouli&label=Profile%20Views&color=1F3864&style=flat-square" />
 
-I'm currently looking for an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany, to keep building on these fundamentals in a professional environment.
-
-<sub><i>Ich beschäftige mich praktisch mit Webentwicklung — von eigenen Projekten mit React bis zu einem Praktikum, in dem ich an einer produktiven, mehrsprachigen Anwendung im Team mitgearbeitet habe. Ich suche eine Ausbildung als Fachinformatiker für Anwendungsentwicklung in Deutschland.</i></sub>
+</div>
 
 ---
 
-### Tech Stack
+## About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+I'm a Full-Stack Web Development student at **ISTA Al Adarissa** (Fès, Morocco), currently completing my technical diploma. I build with React on the frontend and Laravel/Python on the backend, and I recently finished an internship where I worked on a real, multilingual production application as part of a development team.
+
+I'm looking for an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany — a place to turn what I've taught myself into professional, production-grade practice.
+
+<sub>Ich befinde mich in der Ausbildung zum Full-Stack-Webentwickler am ISTA Al Adarissa in Fès. Ich arbeite mit React im Frontend und Laravel/Python im Backend und habe kürzlich ein Praktikum abgeschlossen, in dem ich an einer echten, mehrsprachigen Anwendung im Team mitgearbeitet habe.</sub>
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-**[SmartPlanner](#) — Learning Planner Web App**
-A web application that lets users structure their learning goals and track progress.
-`React` `Laravel` `MySQL`
-- Built the frontend in React with a responsive layout for desktop and mobile
-- Built the backend in Laravel, connected to the frontend via a REST API
-- Designed the data model and stored user data in MySQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Inventory Management System](#) — Lagerverwaltungssystem**
-An application for managing stock levels, quantities, and product categories.
-`Python` `MongoDB`
-- Designed the data model in MongoDB
-- Implemented full CRUD functionality in Python
+### 🗂️ SmartPlanner
+**Learning-goal planning web app**
 
-> 🔗 Update the links above once these projects are pushed to public repos — that alone will make this profile noticeably stronger for recruiters browsing GitHub.
+A full-stack app that lets users structure their learning goals and track progress over time.
+
+**What I built:**
+- React frontend with a responsive layout for desktop and mobile
+- Laravel backend, connected to the frontend via a REST API
+- Data model and user data persistence in MySQL
+
+**Stack:** `React` `Laravel` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Lagerverwaltungssystem
+**Inventory management system**
+
+An application for tracking stock levels, quantities, and product categories.
+
+**What I built:**
+- MongoDB data model designed from scratch
+- Full CRUD functionality (create, read, update, delete) in Python
+
+**Stack:** `Python` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>Repos linked once pushed public — 🔗 placeholders below, update with real URLs.</sub></div>
 
 ---
 
-### GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abderrahmane-fellouli&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmane-fellouli&theme=default&hide_border=true&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-fellouli&layout=compact&hide_border=true&theme=default&title_color=1F3864&text_color=333333" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,php,python" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,mysql,mongodb" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-### Currently
+## GitHub Analytics
 
-- 🎓 Studying Full-Stack Web Development at ISTA Al Adarissa, Fès
-- 🌍 Open to an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany
-- 📫 Reach me at **fellouli.abderrahmane@gmail.com**
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abderrahmane-fellouli&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333&bg_color=ffffff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-fellouli&layout=compact&theme=default&hide_border=true&title_color=1F3864&text_color=333333&bg_color=ffffff" />
+</div>
 
-<p align="center"><i>Danke fürs Vorbeischauen! Thanks for stopping by!</i></p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmane-fellouli&theme=default&hide_border=true&ring=1F3864&fire=B08D57&currStreakLabel=1F3864&background=ffffff" />
+</div>
+
+---
+
+## Currently
+
+```javascript
+const abderrahmane = {
+  status: "Full-Stack diploma — final stage, ISTA Al Adarissa",
+  stack: ["React", "Laravel", "Python", "MySQL", "MongoDB"],
+  learning: ["REST API design", "clean component architecture", "German B1 — Lesen (Sept. 2026)"],
+  lookingFor: "Ausbildung as Fachinformatiker für Anwendungsentwicklung, Germany",
+};
+```
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+Open to Ausbildung opportunities, collaboration, or just a good conversation about code.
+
+<a href="mailto:fellouli.abderrahmane@gmail.com">
+<img src="https://img.shields.io/badge/Get_in_touch-fellouli.abderrahmane%40gmail.com-1F3864?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=90&section=footer" width="100%"/>
