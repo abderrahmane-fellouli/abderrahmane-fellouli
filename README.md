@@ -3,8 +3,8 @@
 <p align="center"><i>Angehender Softwareentwickler aus Fès, Marokko</i></p>
 
 <p align="center">
-  <a href="mailto:abderrahmanefellouli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abderrahmanefellouli%40gmail.com-1F3864?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:fellouli.abderrahmane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fellouli.abderrahmane%40gmail.com-1F3864?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-F%C3%A8s%2C%20Morocco-1F3864?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/German-B1%20(%C3%96SD)-1F3864?style=flat-square" />
@@ -77,6 +77,6 @@ An application for managing stock levels, quantities, and product categories.
 
 - 🎓 Studying Full-Stack Web Development at ISTA Al Adarissa, Fès
 - 🌍 Open to an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany
-- 📫 Reach me at **abderrahmanefellouli@gmail.com**
+- 📫 Reach me at **fellouli.abderrahmane@gmail.com**
 
 <p align="center"><i>Danke fürs Vorbeischauen! Thanks for stopping by!</i></p>
